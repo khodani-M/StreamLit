@@ -5,4 +5,4 @@ st.checkbox('yes')
 st.button('Click')
 st.radio('Pick your gender',['Male','Female'])
 st.selectbox('Pick your gender',['Male','Female'])
-st.write("Line Chart in Streamlit")
+
